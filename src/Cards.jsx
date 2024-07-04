@@ -24,7 +24,7 @@ let Products = [
 
 
     }, {
-        id:2,
+        id:4,
         productName: "product22",
         productPrice: 0,
         productImg: "https://images.pexels.com/photos/609768/pexels-photo-609768.jpeg?auto=compress&cs=tinysrgb&w=600",
